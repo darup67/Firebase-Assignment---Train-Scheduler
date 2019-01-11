@@ -21,13 +21,13 @@ var view = {
 
         $('#train-schedule-body').append(
             '<tr>' +
-            '<th scope="row">' + trainNumber + '</th>' +
-            '<td>' + trainLine + '</td>' +
-            '<td>' + trainDestination + '</td>' +
-            '<td>' + nextTrain + '</td>' +
-            '<td>' + minutesAway + '</td>' +
-            '<td>' + trainFrequency + '</td>' +
-            '<td>' + trainPlatform + '</td>' +
+            '<th scope="row">'+ trainNumber+'</th>'+
+            '<td>'+trainLine+'</td>'+
+            '<td>'+trainDestination+'</td>'+
+            '<td>'+nextTrain+'</td>'+
+            '<td>'+minutesAway+'</td>'+
+            '<td>'+trainFrequency+'</td>'+
+            '<td>'+trainPlatform+'</td>'+
             '</tr>'
         );
     },
