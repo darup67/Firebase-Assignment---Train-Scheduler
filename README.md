@@ -19,3 +19,6 @@ Frequency -- in minutes
 - The app calculates when the next train will arrive based on current time and frequency
 
 - The app updates the train arrivals (next time and minutes away) every minute to keep the times up to the minute on the web page.
+
+
+![Train-Scheduler App!](https://github.com/darup67/Train-Scheduler/blob/master/Img/TrainScheduler%20copy.png)
